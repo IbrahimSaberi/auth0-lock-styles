@@ -1,3 +1,7 @@
 p.auth0-lock-alternative {
   display: none;
 }
+
+#skip {
+  display: none;
+}
